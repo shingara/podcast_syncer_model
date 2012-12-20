@@ -5,3 +5,5 @@ module PodcastSyncerModel
 end
 
 require 'podcast_syncer_model/account'
+require 'podcast_syncer_model/podcast'
+require 'podcast_syncer_model/repository'

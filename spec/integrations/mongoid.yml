@@ -1,0 +1,6 @@
+test:
+  sessions:
+    default:
+      database: 'podcast_syncer_test'
+      hosts:
+        - localhost:27017
