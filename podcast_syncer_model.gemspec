@@ -18,4 +18,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
 
   gem.add_dependency 'mongoid'
+  gem.add_dependency 'podcast_reader'
 end
