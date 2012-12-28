@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = PodcastSyncerModel::VERSION
   gem.authors       = ["Cyril Mougel"]
   gem.email         = ["cyril.mougel@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Model and interaction to this model on PodcastSyncer}
+  gem.summary       = %q{Model and interaction to this model on PodcastSyncer}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
